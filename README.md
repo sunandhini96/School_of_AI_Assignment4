@@ -6,7 +6,7 @@ number of epochs 15
 
 target accuracy 99.4 %
 
-
+COLAB LINK: https://colab.research.google.com/drive/1fvmUzhHS5gzDmc253ihnufMcUwy_CPim#scrollTo=W921op702rBh
 
 # Output logs:
 
